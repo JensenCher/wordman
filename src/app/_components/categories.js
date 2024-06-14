@@ -138,7 +138,6 @@ export const drinks = [
   "Fanta",
   "MountainDew",
   "DrPepper",
-  "7Up",
   "GingerAle",
   "RootBeer",
   "Lemonade",
